@@ -21,9 +21,9 @@ const HeroSection = () => {
           />
         </div>
         <div className="md:mt:2 md:w-6/5">
-          <h1 className="font-bold text-4xl mt-6">Hi, I'm Luca!</h1>
+          <h1 className="font-bold text-4xl mt-6">Hi, I&#39;m Luca!</h1>
           <p className="text-lg mt-4 mb-6">
-            I'm a MS in Data Science student at New York University (NYU),
+            I&#39;m a MS in Data Science student at New York University (NYU),
             passionate about machine learning methods that make things more
             efficient and interesting.
           </p>

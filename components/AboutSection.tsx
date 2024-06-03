@@ -56,12 +56,12 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I'm currently a MS in Data Science student at NYU. My academic
+              I&#39;m currently a MS in Data Science student at NYU. My academic
               interests are natural language processing and generative language
               models. In my undergraduate, I double majored in Nutrition and
-              Data Science (I know. It's a weird combination.) With outstanding
-              academic performances, I was honored exclusively as the
-              undergraduate class representative of NYU Steinhardt in 2023.
+              Data Science (I know. It&#39;s a weird combination.) With
+              outstanding academic performances, I was honored exclusively as
+              the undergraduate class representative of NYU Steinhardt in 2023.
             </p>
             <br />
             <p>
